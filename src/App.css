@@ -1,0 +1,22 @@
+/* .App {
+    display: flex;
+  }
+  
+  @media (max-width: 768px) {
+    .header__search {
+      display: none;
+    }
+  
+    .header__logo {
+      margin-left: 16px;
+    }
+  
+    .header__right {
+      margin-right: 16px;
+    }
+  } */
+  .react-player{
+    background-color: aqua;
+    display: flex;
+    top: 20px;
+  }
